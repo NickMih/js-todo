@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+}
+.card{
+
+    margin: 20px;
+    display: inline-block;
+    position: relative;
+}
+.taskInput{
+    width: 100%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center; 
+}
+.container {
+    width: 100%;
+  }
+.check{
+    margin-top:35%;
+}
+div{
+    display:inline-block;
+    text-align: center;
+    line-height: normal;
+    clear:both;
+    vertical-align: middle;
+}
+.text{
+    margin: 15px;
+    color: white;
+}
+.checkBox{
+    border-radius: 3px;
+    border-right: 3px;
+    border-color: aliceblue;
+}
+.textBox{
+    border-radius: 3px;
+}
+.defaultText{
+    height: 50px;
+    width: 350px;
+}
+.defaultCheck{
+    width: 50px;
+    height: 50px;
+}
+ul{
+    text-align: left;
+}
+li{
+    margin: 5px;
+    list-style-type: none;
+    text-align: center;
+}
+.navbar{
+    margin-bottom:  2%;
+}
